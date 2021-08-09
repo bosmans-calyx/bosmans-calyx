@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve Bosman
 - this is my work persona for Calyx
-- I am also @stevebosman
+- I am also [@stevebosman](https://github.com/stevebosman)
 - 🌱 I’m currently learning Kotlin
 
 <!---
